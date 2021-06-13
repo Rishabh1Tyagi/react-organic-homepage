@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-organic-homepage/static/css/main.29bd1765.chunk.css",
+    "main.js": "/react-organic-homepage/static/js/main.14284c1f.chunk.js",
+    "main.js.map": "/react-organic-homepage/static/js/main.14284c1f.chunk.js.map",
+    "runtime-main.js": "/react-organic-homepage/static/js/runtime-main.808fe4fd.js",
+    "runtime-main.js.map": "/react-organic-homepage/static/js/runtime-main.808fe4fd.js.map",
+    "static/js/2.c3c65223.chunk.js": "/react-organic-homepage/static/js/2.c3c65223.chunk.js",
+    "static/js/2.c3c65223.chunk.js.map": "/react-organic-homepage/static/js/2.c3c65223.chunk.js.map",
+    "static/js/3.c6951f20.chunk.js": "/react-organic-homepage/static/js/3.c6951f20.chunk.js",
+    "static/js/3.c6951f20.chunk.js.map": "/react-organic-homepage/static/js/3.c6951f20.chunk.js.map",
+    "index.html": "/react-organic-homepage/index.html",
+    "static/css/main.29bd1765.chunk.css.map": "/react-organic-homepage/static/css/main.29bd1765.chunk.css.map",
+    "static/js/2.c3c65223.chunk.js.LICENSE.txt": "/react-organic-homepage/static/js/2.c3c65223.chunk.js.LICENSE.txt",
+    "static/media/Group 134.efbd04e6.png": "/react-organic-homepage/static/media/Group 134.efbd04e6.png",
+    "static/media/Group 195.71ea1be1.png": "/react-organic-homepage/static/media/Group 195.71ea1be1.png",
+    "static/media/Group 228.317690fe.png": "/react-organic-homepage/static/media/Group 228.317690fe.png",
+    "static/media/NavBar.css": "/react-organic-homepage/static/media/Group 229.3fc7b986.png",
+    "static/media/blog1.d3eb3b0b.png": "/react-organic-homepage/static/media/blog1.d3eb3b0b.png",
+    "static/media/blog2.924d27ac.png": "/react-organic-homepage/static/media/blog2.924d27ac.png",
+    "static/media/blog3.9f17d9b2.png": "/react-organic-homepage/static/media/blog3.9f17d9b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808fe4fd.js",
+    "static/js/2.c3c65223.chunk.js",
+    "static/css/main.29bd1765.chunk.css",
+    "static/js/main.14284c1f.chunk.js"
+  ]
+}
